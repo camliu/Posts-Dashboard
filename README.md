@@ -1,4 +1,4 @@
-# Post Dashbaord
+# Posts Dashbaord
 
 A CRUD app with functions of post editing and user authentication.
 
