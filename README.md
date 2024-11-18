@@ -7,10 +7,8 @@ A CRUD app with functions of post editing and user authentication.
 - User register, login, logout
 - Create, view, edit, delete posts.
 
-### Backend
+### Build with
 
 - PHP / Laravel
-
-### Frontend
-
+- SQLite
 - Vue.js
